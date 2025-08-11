@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Bilgehan! 👋
 
-<!--
-**bilgehannevruz/bilgehannevruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate software engineer who loves building web applications and exploring new technologies. I share technical insights through my blog and contribute to open source projects.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Languages:** Python, JavaScript, TypeScript, Go
+- **Frontend:** React, Vue, Next.js, Hugo
+- **Backend:** Node.js, FastAPI, Django
+- **Tools:** Docker, Git, CI/CD, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Interests
+- 🔧 Software Development
+- 🌐 Web Technologies
+- 📖 Open Source
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- Check out my blog at [bilgehan.nl](https://bilgehan.nl)
+<!-- BLOG-POST-LIST:END -->
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilgehannevruz&show_icons=true&theme=dark)
+
+## 🔗 Connect With Me
+- 🌐 [Personal Website](https://bilgehan.nl)
+- 💻 [GitHub](https://github.com/bilgehannevruz)
+- 🦊 [GitLab](https://gitlab.com/bilgehannevruz)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bilgehannevruz)
+- 📧 [Email](mailto:contact@bilgehan.nl)
+
+---
+⚡ Visit my website for my full CV and blog posts: [bilgehan.nl](https://bilgehan.nl)
